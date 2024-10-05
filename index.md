@@ -9,3 +9,8 @@ This is a normal content
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [x] Header added
+- [x] Image added
+- [x] Code added
+- [ ] List added?
